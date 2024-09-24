@@ -10,8 +10,8 @@ export const experienceData = [
     id: 2,
     company: 'CloudOps24',
     jobtitle: 'Frontend Developer(React.js)',
-    startYear: 'May 2020',
-    endYear: 'May 2022',
+    startYear: 'June 2020',
+    endYear: 'June 2022',
   },
 
   {
