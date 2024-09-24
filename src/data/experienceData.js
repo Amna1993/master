@@ -1,24 +1,24 @@
 export const experienceData = [
   {
     id: 1,
-    company: 'CINQDev',
-    jobtitle: 'Full Stack Developer',
-    startYear: '2023',
-    endYear: 'Present',
+    company: 'Walmart',
+    jobtitle: 'Front-End Web Developer',
+    startYear: 'August 2022',
+    endYear: 'August 2024',
   },
   {
     id: 2,
-    company: 'LEADconcept Software House',
-    jobtitle: 'Frontend Developer(React.js, Redux)',
-    startYear: '23-01-2020',
-    endYear: 'Present',
+    company: 'CloudOps24',
+    jobtitle: 'Frontend Developer(React.js)',
+    startYear: 'May 2020',
+    endYear: 'May 2022',
   },
 
   {
     id: 3,
-    company: 'Stack Technologies',
-    jobtitle: 'Frontend Developer(JavaScript, React.js)',
-    startYear: '15-03-2019',
-    endYear: '15-01-2020',
+    company: 'CloudOps24',
+    jobtitle: 'Software Tester',
+    startYear: 'May 2019',
+    endYear: 'May 2020',
   },
 ]
